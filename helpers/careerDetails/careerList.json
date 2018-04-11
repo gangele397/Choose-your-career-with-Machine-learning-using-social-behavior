@@ -1,0 +1,335 @@
+{
+    "Accounting": {
+        "number": "13-2011.01"
+    },
+    ​​​​​​​​​​"Acting": {
+        "number": "27-2011.00"
+    },
+    ​​​​​​​​​​"Actuarial Science": {
+        "number": "15-2011.00"
+    },
+    ​​​​​​​​​​"Advertising and Promotions Management": {
+        "number": "11-2011.00"
+    },
+    ​​​​​​​​​​"Advertising and Sales": {
+        "number": "41-3011.00"
+    },
+    ​​​​​​​​​​"Airline Piloting": {
+        "number": "53-2011.00"
+    },
+    ​​​​​​​​​​"Art Directing": {
+        "number": "27-1011.00"
+    },
+    ​​​​​​​​​​"Art Education": {
+        "number": "25-1121.00"
+    },
+    ​​​​​​​​​​"Bioinformatics": {
+        "number": "19-1029.01"
+    },
+    ​​​​​​​​​​"Broadcast News Analysis": {
+        "number": "27-3021.00"
+    },
+    ​​​​​​​​​​"Budget Analysis": {
+        "number": "13-2031.00"
+    },
+    ​​​​​​​​​​"Business Intelligence Analysis": {
+        "number": "15-1199.08"
+    },
+    ​​​​​​​​​​"Chemistry": {
+        "number": "19-2031.00"
+    },
+    ​​​​​​​​​​"Choreography": {
+        "number": "27-2032.00"
+    },
+    ​​​​​​​​​​"Civil Engineering": {
+        "number": "17-2051.00"
+    },
+    ​​​​​​​​​​"Clergy": {
+        "number": "21-2011.00"
+    },
+    ​​​​​​​​​​"Clinical Psychology": {
+        "number": "19-3031.02"
+    },
+    ​​​​​​​​​​"Coaching and Scouting": {
+        "number": "27-2022.00"
+    },
+    ​​​​​​​​​​"Commercial and Industrial Design": {
+        "number": "27-1021.00"
+    },
+    ​​​​​​​​​​"Computer Engineering": {
+        "number": "17-2061.00"
+    },
+    ​​​​​​​​​​"Computer Network Architecture": {
+        "number": "15-1143.00"
+    },
+    ​​​​​​​​​​"Computer Science Education": {
+        "number": "25-1021.00"
+    },
+    ​​​​​​​​​​"Construction Management": {
+        "number": "11-9021.00"
+    },
+    ​​​​​​​​​​"Copywriting": {
+        "number": "27-3043.04"
+    },
+    ​​​​​​​​​​"Cosmetology": {
+        "number": "39-5012.00"
+    },
+    ​​​​​​​​​​"Credit Analysis": {
+        "number": "13-2041.00"
+    },
+    ​​​​​​​​​​"Credit Counselling": {
+        "number": "13-2071.00"
+    },
+    ​​​​​​​​​​"Customer Service": {
+        "number": "43-4051.0"
+    },
+    ​​​​​​​​​​"Database Architecture": {
+        "number": "15-1199.06"
+    },
+    ​​​​​​​​​​"Dentistry": {
+        "number": "29-1021.00"
+    },
+    ​​​​​​​​​​"Dermatology": {
+        "number": "29-1069.02"
+    },
+    ​​​​​​​​​​"Desktop Publishing": {
+        "number": "43-9031.00"
+    },
+    ​​​​​​​​​​"Directing- Stage, Motion Pictures, Television, and Radio": {
+        "number": "27-2012.02"
+    },
+    ​​​​​​​​​​"Economics": {
+        "number": "19-3011.00"
+    },
+    ​​​​​​​​​​"Editing": {
+        "number": "27-3041.00"
+    },
+    ​​​​​​​​​​"Education Administration": {
+        "number": "11-9033.00"
+    },
+    ​​​​​​​​​​"Electrical Electronics Engineering": {
+        "number": "17-3029.04"
+    },
+    ​​​​​​​​​​"Electrical Engineering": {
+        "number": "17-3023.03"
+    },
+    ​​​​​​​​​​"Energy Broking": {
+        "number": "41-3099.01"
+    },
+    ​​​​​​​​​​"English Language and Literature Education": {
+        "number": "27-2032.00"
+    },
+    ​​​​​​​​​​"Epidemiology": {
+        "number": "19-1041.00"
+    },
+    ​​​​​​​​​​"Event Planning": {
+        "number": "13-1121.00"
+    },
+    ​​​​​​​​​​"Exercise Physiology": {
+        "number": "29-1128.00"
+    },
+    ​​​​​​​​​​"Fabric and Apparel Patternmaking": {
+        "number": "51-6092.00"
+    },
+    ​​​​​​​​​​"Fashion Design": {
+        "number": "27-1022.00"
+    },
+    ​​​​​​​​​​"Film and Video Editing": {
+        "number": "27-4032.00"
+    },
+    ​​​​​​​​​​"Financial Analysis": {
+        "number": "13-2051.00"
+    },
+    ​​​​​​​​​​"Financial Auditing": {
+        "number": "13-2011.02"
+    },
+    ​​​​​​​​​​"Floral Design": {
+        "number": "27-1023.00"
+    },
+    ​​​​​​​​​​"Food and Nutriton": {
+        "number": "29-1031.00"
+    },
+    ​​​​​​​​​​"Foreign Languages Education": {
+        "number": "25-1124.00"
+    },
+    ​​​​​​​​​​"Forensic Science": {
+        "number": "19-4092.00"
+    },
+    ​​​​​​​​​​"Geospatial Information Sciences": {
+        "number": "15-1199.04"
+    },
+    ​​​​​​​​​​"Graphics Design": {
+        "number": "27-1024.00"
+    },
+    ​​​​​​​​​​"History": {
+        "number": "19-3093.00"
+    },
+    ​​​​​​​​​​"Human Resources Management": {
+        "number": "11-3121.00"
+    },
+    ​​​​​​​​​​"Industrial Ecology": {
+        "number": "19-2041.03"
+    },
+    ​​​​​​​​​​"Industrial Engineering": {
+        "number": "17-2112.00"
+    },
+    ​​​​​​​​​​"Insurance Underwriting": {
+        "number": "13-2053.00"
+    },
+    ​​​​​​​​​​"Intelligence Analysis": {
+        "number": "33-3021.06"
+    },
+    ​​​​​​​​​​"Interior Design": {
+        "number": "27-1025.00"
+    },
+    ​​​​​​​​​​"Investment Fund Management": {
+        "number": "11-9199.03"
+    },
+    ​​​​​​​​​​"Language Translation": {
+        "number": "27-3091.00"
+    },
+    ​​​​​​​​​​"Law": {
+        "number": "23-1011.00"
+    },
+    ​​​​​​​​​​"Logistics Analysis": {
+        "number": "13-1081.02"
+    },
+    ​​​​​​​​​​"Logistics Management": {
+        "number": "11-3071.03"
+    },
+    ​​​​​​​​​​"Management Analysis": {
+        "number": "13-1111.00"
+    },
+    ​​​​​​​​​​"Mathematical Science Education": {
+        "number": "25-1022.00"
+    },
+    ​​​​​​​​​​"Mathematics": {
+        "number": "15-2021.00"
+    },
+    ​​​​​​​​​​"Mechanical Engineering": {
+        "number": "17-2141.00"
+    },
+    ​​​​​​​​​​"Medicine and Surgery": {
+        "number": "29-1067.00"
+    },
+    ​​​​​​​​​​"Modelling": {
+        "number": "41-9012.00"
+    },
+    ​​​​​​​​​​"Music Composition and Arrangement": {
+        "number": "27-2041.04"
+    },
+    ​​​​​​​​​​"Music Directing": {
+        "number": "27-2041.01"
+    },
+    ​​​​​​​​​​"Musician (Instrumental)": {
+        "number": "27-2042.02"
+    },
+    ​​​​​​​​​​"Neurology": {
+        "number": "29-1069.04"
+    },
+    ​​​​​​​​​​"Neuropsychology": {
+        "number": "19-3039.01"
+    },
+    ​​​​​​​​​​"Nursing": {
+        "number": "29-1141.04"
+    },
+    ​​​​​​​​​​"Obstetrics and Gynecology": {
+        "number": "29-1064.00"
+    },
+    ​​​​​​​​​​"Operations Research Analysis": {
+        "number": "15-2031.00"
+    },
+    ​​​​​​​​​​"Ophthalmology": {
+        "number": "29-1069.06"
+    },
+    ​​​​​​​​​​"Pediatrics": {
+        "number": "29-1065.00"
+    },
+    ​​​​​​​​​​"Personal Finance Advisory": {
+        "number": "13-2052.00"
+    },
+    ​​​​​​​​​​"Petroleum Engineering": {
+        "number": "17-2171.00"
+    },
+    ​​​​​​​​​​"Pharmacy": {
+        "number": "29-1051.00"
+    },
+    ​​​​​​​​​​"Political Science": {
+        "number": "19-3094.00"
+    },
+    ​​​​​​​​​​"Political Science Education": {
+        "number": "25-1065.00"
+    },
+    ​​​​​​​​​​"Production": {
+        "number": "27-2012.01"
+    },
+    ​​​​​​​​​​"Program Directing": {
+        "number": "27-2012.03"
+    },
+    ​​​​​​​​​​"Psychiatry": {
+        "number": "29-1066.00"
+    },
+    ​​​​​​​​​​"Psychology Education": {
+        "number": "25-1066.00"
+    },
+    ​​​​​​​​​​"Public Relations Specialist": {
+        "number": "27-3031.00"
+    },
+    ​​​​​​​​​​"Radio and TV Presenting": {
+        "number": "27-3011.00"
+    },
+    ​​​​​​​​​​"Radiology": {
+        "number": "29-1069.10"
+    },
+    ​​​​​​​​​​"Real Estate Brokage": {
+        "number": "41-9021.00"
+    },
+    ​​​​​​​​​​"Reporting and Correspondence": {
+        "number": "27-3022.00"
+    },
+    ​​​​​​​​​​"Risk Management": {
+        "number": "13-2099.02"
+    },
+    ​​​​​​​​​​"Robotics Engineering": {
+        "number": "17-2199.08"
+    },
+    ​​​​​​​​​​"Singing": {
+        "number": "27-2042.01"
+    },
+    ​​​​​​​​​​"Skincare": {
+        "number": "39-5094.00"
+    },
+    ​​​​​​​​​​"Sociology": {
+        "number": "19-3041.00"
+    },
+    ​​​​​​​​​​"Sociology Education": {
+        "number": "25-1067.00"
+    },
+    ​​​​​​​​​​"Software Engineering": {
+        "number": "15-1132.00"
+    },
+    ​​​​​​​​​​"Statistics": {
+        "number": "15-2041.00"
+    },
+    ​​​​​​​​​​"Supply Chain Management": {
+        "number": "11-9199.04"
+    },
+    ​​​​​​​​​​"Survey Research": {
+        "number": "19-3022.00"
+    },
+    ​​​​​​​​​​"Surveying": {
+        "number": "17-1022.00"
+    },
+    ​​​​​​​​​​"Technical Writing": {
+        "number": "27-3042.00"
+    },
+    ​​​​​​​​​​"Telecommunications Engineering": {
+        "number": "15-1143.01"
+    },
+    ​​​​​​​​​​"Urban and Regional Planning": {
+        "number": "19-3051.00"
+    },
+    ​​​​​​​​​​"Video Games Design": {
+        "number": "15-1199.11"
+    }
+}​​​​​

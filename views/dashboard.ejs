@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>
+    <%= title %>
+  </title>
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+  <section id="welcome">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 welcome">
+          <h2 class="text-center">Welcome,
+            <span class="gold">
+              <%= firstName %>
+                <%= lastName %>
+            </span>
+          </h2>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="summary">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6">
+          <div class="card">
+            <h4 class="card-header">About You</h4>
+            <div class="card-body">
+              <p class="card-text">
+                <%= profileSummary %>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="card">
+            <h4 class="card-header">You are likely to do best in careers that:</h4>
+            <div class="card-body">
+              <ul>
+                <% for (let i=0; i < dominantInterestDescription.length; i++) { %>
+                  <li>
+                    <%= dominantInterestDescription[i] %>
+                  </li>
+                  <% } %>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section id="careerDetails">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <h2 style="margin-bottom:4vh">Career Suggestions</h2>
+          <div id="accordion">
+            <% for (let career of careerSuggestions) { %>
+                <div class="card">
+                    <div class="card-header">
+                            <button class="btn btn-link" data-toggle="collapse" data-target="#<%= career.number %>" aria-expanded="true" aria-controls="<%= career.number %>"><%= career.name %></button>
+                    </div>
+
+                    <div id = "<%= career.number %>" class="collapse" aria-labelledby="<%= career.number %>" data-parent="#accordion">
+                        <div class="card-body">
+                          <div class="content">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <h5>Description</h5>
+                                <p class="description"></p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-md-6">
+                                <h5>Job titles in this career:</h5>
+                                <ul class="jobTitles"></ul>
+                              </div>
+                              <div class="col-md-6 occupation">
+                                <h5>Related occupations:</h5>
+                                <ul class="relatedOccupations"></ul>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-md-12">
+                                <h5>Task Statements:</h5>
+                                <ul class="tasks"></ul>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-md-6">
+                                <h5>Knowledge Areas</h5>
+                                <ul class="knowledgeAreas"></ul>
+                              </div>
+                              <div class="col-md-6">
+                                <h5>Skills</h5>
+                                <ul class="skills"></ul>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-md-12">
+                                <h5>Work Styles</h5>
+                                <ul class="workStyles"></ul>
+                              </div>
+                            </div>
+                            
+                          </div>
+                        </div>
+                    </div>
+                </div>
+                <% } %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10">
+          <p class="text-center">This page includes information from the <a href="https://www.onetcenter.org/database.html">O*NET 22.2 Database</a> by the U.S. Department of Labor, Employment and Training Administration (USDOL/ETA). Used under the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> license. </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <script src="/javascripts/script.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+
+  </body>
+
+  </html>
